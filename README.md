@@ -1,22 +1,22 @@
-# Image Clustering with K-means
+# Image Clustering with K-means 🎨
 
 Welcome to the Image Clustering with K-means project! This project demonstrates the use of K-means clustering to segment an image into clusters. The project is implemented in a Jupyter Notebook named `Week2 Day3 Task2.ipynb`.
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [About](#about)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contact](#contact)
-- [License](#license)
+- [Introduction](#introduction) 🌟
+- [About](#about) 📝
+- [Installation](#installation) ⚙️
+- [Usage](#usage) 🚀
+- [Contact](#contact) 📬
+- [License](#license) 📜
 
-## Introduction
+## Introduction 🌟
 This project involves applying K-means clustering to an image to reduce its colors to a specified number of clusters. The clustering process simplifies the image by representing it with the mean color values of the clusters.
 
-## About
+## About 📝
 In this project, we start with K values of 2, dividing the image into 2 clusters. Each pixel's color is reassigned to the mean value of its respective cluster, resulting in an image with only 2 colors.
 
-## Installation
+## Installation ⚙️
 To get started with the Image Clustering with K-means project, follow these steps:
 
 1. Clone the repository:
@@ -34,7 +34,7 @@ To get started with the Image Clustering with K-means project, follow these step
     pip install -r requirements.txt
     ```
 
-## Usage
+## Usage 🚀
 To use the Image Clustering with K-means notebook, follow these steps:
 
 1. Ensure you have the necessary dependencies installed (see Installation section).
@@ -46,14 +46,14 @@ To use the Image Clustering with K-means notebook, follow these steps:
 
 3. Follow the instructions within the notebook to load the image, apply K-means clustering, and visualize the results.
 
-## Contact
+## Contact 📬
 For any questions or inquiries, please feel free to contact me via LinkedIn:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muqtasid-ali-91a0a623a/)
 
-## License
+## License 📜
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-Happy Clustering!
+Happy Clustering! 🎉
